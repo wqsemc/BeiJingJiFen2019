@@ -1,4 +1,4 @@
-### 北京2020积分落户数据分析（汪锦岐，https://wqsemc.github.io）
+### 北京2020积分落户数据分析（汪锦岐[汪强]，https://wqsemc.github.io , WangJinQi, WangQiang ）
 ### top10
 
 ```
