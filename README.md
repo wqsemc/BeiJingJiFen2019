@@ -1,5 +1,5 @@
 # BeiJingJiFen2020
-### 2020技协杯CTF网络安全个人赛特等奖
+### 2020技协杯CTF网络安全个人赛特等奖 https://mp.weixin.qq.com/s?src=11&timestamp=1605881431&ver=2718&signature=IjVeOArWaHuTOX5KBndcFCqKMzyBt-q5r2TrCFv00A3SbFAparNyrHuKs13rVDlTxrV*mDZ1ujpq8DIN-oonWWZQQL2wS3NqVdAVjlGCuoIiUAi-vO42jaX8omMPbK-8&new=1
 ### 2019中国技能大赛CTF网络安全个人赛全国二等奖（互联网组） https://github.com/wqsemc/BeiJingJiFen2019/blob/master/2019ChinaCTFa.jpg?raw=true  https://github.com/wqsemc/BeiJingJiFen2019/blob/master/2019ChinaCTFb.jpg?raw=true
 ### 2006年数学建模国家一等奖（高教社杯）
 ### 2019年（第九届）电信和互联网行业网络安全年会成功举办。隆重举行“2019年中国技能大赛-全国网络安全管理职业技能竞赛”闭幕仪式暨颁奖礼（CTF网络安全比赛）等活动。 https://tech.chinadaily.com.cn/a/201911/26/WS5ddcefbba31099ab995ee1df.html
