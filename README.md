@@ -1,3 +1,5 @@
+# BeiJingJiFen2021
+### 北京2021积分落户数据分析（汪锦岐[汪强]，https://wqsemc.github.io , WangJinQi, WangQiang ）
 ### 2019中国技能大赛CTF网络安全个人赛全国二等奖（互联网组） https://github.com/wqsemc/BeiJingJiFen2019/blob/master/2019ChinaCTFa.jpg?raw=true  https://github.com/wqsemc/BeiJingJiFen2019/blob/master/2019ChinaCTFb.jpg?raw=true
 ### 2006年数学建模国家一等奖（高教社杯）
 ### 2019年（第九届）电信和互联网行业网络安全年会成功举办。隆重举行“2019年中国技能大赛-全国网络安全管理职业技能竞赛”闭幕仪式暨颁奖礼（CTF网络安全比赛）等活动。 https://tech.chinadaily.com.cn/a/201911/26/WS5ddcefbba31099ab995ee1df.html
@@ -5,7 +7,6 @@
 ### BeiJingJiFen2019，北京2019积分落户数据分析（汪锦岐[汪强]，https://wqsemc.github.io , WangJinQi, WangQiang ）
 ### 凤凰网ifeng.com独家新闻， https://ishare.ifeng.com/c/s/7qmvbe4KQ9A  北京2019积分落户数据分析：哪些人积分高？哪些单位人最多？
 ### 北京2020积分落户数据分析（汪锦岐[汪强]，https://wqsemc.github.io , WangJinQi, WangQiang ）
-# BeiJingJiFen2021
 ### 北京2021积分落户数据分析（汪锦岐[汪强]，https://wqsemc.github.io , WangJinQi, WangQiang ）
 ### top10
 
