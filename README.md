@@ -1,4 +1,4 @@
-# BeiJingJiFen2021 
+# BeiJingJiFen2021
 ### 北京2021积分落户数据分析（汪锦岐[汪强]，https://wqsemc.github.io , WangJinQi, WangQiang ）
 ### 2019中国技能大赛CTF网络安全个人赛全国二等奖（互联网组） https://github.com/wqsemc/BeiJingJiFen2019/blob/master/2019ChinaCTFa.jpg?raw=true  https://github.com/wqsemc/BeiJingJiFen2019/blob/master/2019ChinaCTFb.jpg?raw=true
 ### 2006年数学建模国家一等奖（高教社杯）
