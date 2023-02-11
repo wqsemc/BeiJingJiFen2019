@@ -1,5 +1,6 @@
 # BeiJingJiFen2022
 ### 北京2022积分落户数据分析（汪锦岐[汪强]，https://wqsemc.github.io , WangJinQi, WangQiang ）
+### 全国2022美亚杯数据安全个人赛二等奖
 ### 北京2020职工技协杯安全个人赛特等奖，第二届信息通信行业网络安全技能大赛， https://baijiahao.baidu.com/s?id=1683505935856021527 
 ![](https://raw.githubusercontent.com/wqsemc/BeiJingJiFen2019/master/2020JiXieBeiCTF.jpg) 
 ![](https://raw.githubusercontent.com/wqsemc/BeiJingJiFen2019/master/2020JiXieBeiCTFa.jpg)
