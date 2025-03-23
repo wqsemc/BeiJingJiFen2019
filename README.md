@@ -1,6 +1,6 @@
-# BeiJingJiFen2022
-### 2024全国网鼎杯线下半决赛，2024北京职工安全个人赛第5名，
-### 北京2022积分落户数据分析（汪锦岐[汪强]，https://wqsemc.github.io , WangJinQi, WangQiang ）
+# BeiJingJiFen2024
+### 2024全国网鼎杯线下半决赛，2024北京职工安全个人赛第5名
+### 北京2024积分落户数据分析（汪锦岐，https://wqsemc.github.io , WangJinQi ）
 ### 全国2022美亚杯数据安全个人赛二等奖
 ### 北京2020职工技协杯安全个人赛特等奖，第二届信息通信行业网络安全技能大赛， https://baijiahao.baidu.com/s?id=1683505935856021527 
 ![](https://raw.githubusercontent.com/wqsemc/BeiJingJiFen2019/master/2020JiXieBeiCTF.jpg) 
@@ -10,12 +10,14 @@
 ![](https://github.com/wqsemc/BeiJingJiFen2019/blob/master/2019ChinaCTFb.jpg?raw=true)
 ### 2006年数学建模国家一等奖（高教社杯）
 ### 2019年（第九届）电信和互联网行业网络安全年会成功举办。隆重举行“2019年中国技能大赛-全国网络安全管理职业技能竞赛”闭幕仪式暨颁奖礼（CTF网络安全比赛）等活动。 https://tech.chinadaily.com.cn/a/201911/26/WS5ddcefbba31099ab995ee1df.html
-### bj6thctf20240801,yangqictf20231207,hufuctf20220319,picoctf20220316,wangrenctf20210912,gongkongctf20210820,bjjxbctf20210807,gongkongctf20210704,gongkongctf20210701,gongkongctf20210628,bjjxbctf20201115,bjjxbctf20201024,bjdgjctf20200927,tjctf20200523,wangdingctf20200521,anhengctf20200425,xinlanstudyctf20200423,hufuctf20200419,wpictf20200418,umdctf20200418,plaidctf20200418,kanxuectf20200415,hexionctf20200412,hackzoneviiictf20200412,dawgctf20200411,xinlanstudyctf20200410,tghackctf20200409,auburnctf20200403,virsecconctf20200404,midnightsunctf20200404,volgactf20200327,ctfsecurinetsctf20200321,tamuctf20200320,confidencectf20200314,b01lersctf20200314,angstromctf20200313,zer0ptsctf20200307,utctf20200307,aeroctf20200229,BisidesMFctf20200223,hackimctf20200208,tghackctf20200208,neverlanctf20200208,xctf20200201,hacktmctf20200201,riceteacatpandactf20200120,insomniHackctf20200118,linkctf20200105,BambooFoxctf20191231,bjdgjctf20191228,infernoctf20191227,justctf20191220,watevrctf20191213,backdoorctf20191026,picoctf20190927,inctf20190921,csawctf20190914,kanxuectf20190910,TrendMicroctf20190907,defcompctf20190907,affinityctf20190907,hwbctf20190906,tokeywesternsctf20190831,xctf20190823,xctfsuctf20190817,De1CTFdeepinrealctf20190803,cybericsctf20190720,bjjxbctf20190706,360wctf20190705,kanxuectf20190610,bjjxbctf20190531 https://2019game.picoctf.com/scoreboard?wqsemc=2025-03-23.14:32:31#e0d42bf04460419aafcf9b392a72868b
+### yangqictf20250117,bj6thctf20240801,yangqictf20231207,hufuctf20220319,picoctf20220316,wangrenctf20210912,gongkongctf20210820,bjjxbctf20210807,gongkongctf20210704,gongkongctf20210701,gongkongctf20210628,bjjxbctf20201115,bjjxbctf20201024,bjdgjctf20200927,tjctf20200523,wangdingctf20200521,anhengctf20200425,xinlanstudyctf20200423,hufuctf20200419,wpictf20200418,umdctf20200418,plaidctf20200418,kanxuectf20200415,hexionctf20200412,hackzoneviiictf20200412,dawgctf20200411,xinlanstudyctf20200410,tghackctf20200409,auburnctf20200403,virsecconctf20200404,midnightsunctf20200404,volgactf20200327,ctfsecurinetsctf20200321,tamuctf20200320,confidencectf20200314,b01lersctf20200314,angstromctf20200313,zer0ptsctf20200307,utctf20200307,aeroctf20200229,BisidesMFctf20200223,hackimctf20200208,tghackctf20200208,neverlanctf20200208,xctf20200201,hacktmctf20200201,riceteacatpandactf20200120,insomniHackctf20200118,linkctf20200105,BambooFoxctf20191231,bjdgjctf20191228,infernoctf20191227,justctf20191220,watevrctf20191213,backdoorctf20191026,picoctf20190927,inctf20190921,csawctf20190914,kanxuectf20190910,TrendMicroctf20190907,defcompctf20190907,affinityctf20190907,hwbctf20190906,tokeywesternsctf20190831,xctf20190823,xctfsuctf20190817,De1CTFdeepinrealctf20190803,cybericsctf20190720,bjjxbctf20190706,360wctf20190705,kanxuectf20190610,bjjxbctf20190531 https://2019game.picoctf.com/scoreboard?wqsemc=2025-03-23.14:32:31#e0d42bf04460419aafcf9b392a72868b
 ### BeiJingJiFen2019，北京2019积分落户数据分析（汪锦岐[汪强]，https://wqsemc.github.io , WangJinQi, WangQiang ）
 ### 凤凰网ifeng.com独家新闻， https://ishare.ifeng.com/c/s/7qmvbe4KQ9A  北京2019积分落户数据分析：哪些人积分高？哪些单位人最多？
-### 北京2020积分落户数据分析（汪锦岐[汪强]，https://wqsemc.github.io , WangJinQi, WangQiang ）
-### 北京2021积分落户数据分析（汪锦岐[汪强]，https://wqsemc.github.io , WangJinQi, WangQiang ）
-### 北京2022积分落户数据分析（汪锦岐[汪强]，https://wqsemc.github.io , WangJinQi, WangQiang ）
+### 北京2020积分落户数据分析（汪锦岐，https://wqsemc.github.io , WangJinQi ）
+### 北京2021积分落户数据分析（汪锦岐，https://wqsemc.github.io , WangJinQi ）
+### 北京2022积分落户数据分析（汪锦岐，https://wqsemc.github.io , WangJinQi ）
+### 北京2023积分落户数据分析（汪锦岐，https://wqsemc.github.io , WangJinQi ）
+### 北京2024积分落户数据分析（汪锦岐，https://wqsemc.github.io , WangJinQi ）
 ### top10
 
 ```
